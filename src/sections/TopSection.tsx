@@ -1,5 +1,5 @@
 import React from "react";
-import "./TopSection.css";
+import "./MainPage.css";
 
 export default function TopSection() {
   return (

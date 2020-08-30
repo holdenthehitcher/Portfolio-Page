@@ -9,3 +9,14 @@
     justify-content: center;
     opacity: .95
 }
+
+.wallpaper-projects{
+    min-height: 100vh;
+
+}
+
+.wallpaper-contact {
+    min-height: 100vh;
+    background-color: #282c34;
+
+}
